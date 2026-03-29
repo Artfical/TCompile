@@ -3,7 +3,7 @@
 ![Lisans](https://img.shields.io/badge/Lisans-GNU_AGPL_v3-red.svg)
 ![Sürüm](https://img.shields.io/badge/Sürüm-v4.1-blue.svg)
 ![Altyapı](https://img.shields.io/badge/Altyapı-PyInstaller_Core-yellow.svg)
-![Sistem](https://img.shields.io/badge/Sistem-Windows_Linux_MacOS-lightgrey.svg)
+![Sistem](https://img.shields.io/badge/Sistem-Linux-lightgrey.svg)
 
 ---
 
